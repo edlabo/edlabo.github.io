@@ -1,123 +1,49 @@
----
-layout: default
----
+I am a data specialist working in the natural sciences.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+(This page is a work in progress)
 
-[Link to another page](./another-page.html).
+ORCID: https://orcid.org/0000-0002-2510-9948
 
-There should be whitespace between paragraphs.
+# Data Releases
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Dlabola, E.K. 2022. Bird-window collisions at the University of Victoria, Victoria, BC from 1990–2021, ArcGIS Online data, https://www.arcgis.com/home/item.html?id=38ffe5fa61f54c1b8e536072f06fb3cc
 
-# Header 1
+Hagar, J.C. and Dlabola, E.K. 2021. Mesocarnivore Survey of Crater Lake National Park, U.S. Geological Survey data release, https://doi.org/10.5066/P9PH6JAL 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Hagar, J.C. and Dlabola, E.K. 2021. Mesocarnivore Survey of Lassen Volcanic National Park, U.S. Geological Survey data release, https://doi.org/10.5066/P9YMXGWH
 
-## Header 2
+Hagar, J.C. and Dlabola, E.K. 2021. Mesocarnivore Survey of Lava Beds National Monument, U.S. Geological Survey data release, https://doi.org/10.5066/P91R4OIG 
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Hagar, J.C. and Dlabola, E.K. 2021. Mesocarnivore Survey of Whiskeytown National Recreation Area, U.S. Geological Survey data release, https://doi.org/10.5066/P9AZ3E90 
 
-### Header 3
+# Publications
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+Hiemstra, M.A., Dlabola, E.K. and O’Brien, E.L. 2020. Factors influencing bird-window collisions in Victoria, British Columbia. Northwestern Naturalist, 10(1). https://doi.org/10.1898/1051-1733-101.1.27 
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+Barnes, P.M., Pickrill, R.A., Bostock, H.C., Dlabola, E.K., Gorman, A.R., and Wilson, G.S. 2016. Relict pro-glacial deltas in Bradshaw and George Sounds, Fiordland, New Zealand. (903) in: Atlas of Submarine Glacial Landforms: Modern, Quaternary and Ancient. Geological Society, London, Memoirs, 46. https://doi.org/10.1144/m46.59 
 
-#### Header 4
+Dlabola. E.K., Wilson, G.S., Gorman, A.R., Riesselman, C.R., and Moy, C.M. 2015. A post-glacial sea-level curve from Fiordland, New Zealand. Global and Planetary Change, 131, 101-114. https://doi.org/10.1016/j.gloplacha.2015.05.010 
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+Dlabola, E.K. 2014. A post-glacial sea-level curve for Fiordland, New Zealand (Master’s thesis). University of Otago. https://hdl.handle.net/10523/5024 
 
-##### Header 5
+# Recent Experience
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+Data Management Specialist
+Pacific States Marine Fisheries Commission, 2021 - present
 
-###### Header 6
+Biological Science Aid
+U.S. Geological Survey, 2019 - 2021
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+# Education
 
-### There's a horizontal rule below this.
+Graduate Certificate, Geographic Information Science
 
-* * *
+Oregon State University, 2020
 
-### Here is an unordered list:
+Master of Science, Marine Science
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+University of Otago, 2014
 
-### And an ordered list:
+Bachelor of Science, Geology
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Juniata College, 2011
