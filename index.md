@@ -1,4 +1,4 @@
-I am a data specialist working in the natural sciences.
+I am a data specialist working in the natural sciences. I focus on data management, documentation, and metadata creation to facilitate data sharing and publication, as well as editing and co-authoring technical reports and papers. I curate, summarize, and QAQC scientific data from a variety of fields, including geology, ecology, and wildlife biology. I also have experience with, and interest in, legacy data rescue in order to preserve institutional knowledge and transform scientific data from historical or analog formats into useble and accessible formats for the digital world.
 
 (This page is a work in progress)
 
@@ -23,14 +23,14 @@ Data Management Specialist
 Biological Science Aid
 <br>U.S. Geological Survey, 2019 - 2021
 
+Project Coordinator
+<br>Victoria Bird Strike Initiative, 2018 - present
+
 Research Assistant
 <br>University of Victoria Anthropology Department, 2016
 
 Visiting Research Scientist
 <br>Geological Survey of Canada, 2015
-
-Project Coordinator
-<br>Victoria Bird Strike Initiative, 2018 - present
 
 # Data Releases
 
