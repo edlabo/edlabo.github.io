@@ -44,7 +44,7 @@ Hagar, J.C. and <strong>Dlabola, E.K.</strong> 2021. Mesocarnivore Survey of Whi
 
 # Publications
 
-Hiemstra, M.A., Mstrong>Dlabola, E.K.</strong> and O’Brien, E.L. 2020. Factors influencing bird-window collisions in Victoria, British Columbia. Northwestern Naturalist, 10(1). [https://doi.org/10.1898/1051-1733-101.1.27](https://doi.org/10.1898/1051-1733-101.1.27)
+Hiemstra, M.A., <strong>Dlabola, E.K.</strong> and O’Brien, E.L. 2020. Factors influencing bird-window collisions in Victoria, British Columbia. Northwestern Naturalist, 10(1). [https://doi.org/10.1898/1051-1733-101.1.27](https://doi.org/10.1898/1051-1733-101.1.27)
 
 Barnes, P.M., Pickrill, R.A., Bostock, H.C., <strong>Dlabola, E.K.,</strong> Gorman, A.R., and Wilson, G.S. 2016. Relict pro-glacial deltas in Bradshaw and George Sounds, Fiordland, New Zealand. (903) in: Atlas of Submarine Glacial Landforms: Modern, Quaternary and Ancient. Geological Society, London, Memoirs, 46. [https://doi.org/10.1144/m46.59](https://doi.org/10.1144/m46.59)
 
