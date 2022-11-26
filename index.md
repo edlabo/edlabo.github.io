@@ -4,6 +4,42 @@ I am a data specialist working in the natural sciences.
 
 ORCID: https://orcid.org/0000-0002-2510-9948
 
+# Education
+
+Graduate Certificate, Geographic Information Science
+
+Oregon State University, 2020
+
+Master of Science, Marine Science
+
+University of Otago, 2014
+
+Bachelor of Science, Geology
+
+Juniata College, 2011
+
+# Recent Experience
+
+Data Management Specialist
+
+Pacific States Marine Fisheries Commission, 2021 - present
+
+Biological Science Aid
+
+U.S. Geological Survey, 2019 - 2021
+
+Research Assistant
+
+University of Victoria Anthropology Department, 2016
+
+Visiting Research Scientist
+
+Geological Survey of Canada, 2015
+
+Project Coordinator
+
+Victoria Bird Strike Initiative, 2018 - present
+
 # Data Releases
 
 Dlabola, E.K. 2022. Bird-window collisions at the University of Victoria, Victoria, BC from 1990–2021, ArcGIS Online data, https://www.arcgis.com/home/item.html?id=38ffe5fa61f54c1b8e536072f06fb3cc
@@ -25,25 +61,3 @@ Barnes, P.M., Pickrill, R.A., Bostock, H.C., Dlabola, E.K., Gorman, A.R., and Wi
 Dlabola. E.K., Wilson, G.S., Gorman, A.R., Riesselman, C.R., and Moy, C.M. 2015. A post-glacial sea-level curve from Fiordland, New Zealand. Global and Planetary Change, 131, 101-114. https://doi.org/10.1016/j.gloplacha.2015.05.010 
 
 Dlabola, E.K. 2014. A post-glacial sea-level curve for Fiordland, New Zealand (Master’s thesis). University of Otago. https://hdl.handle.net/10523/5024 
-
-# Recent Experience
-
-Data Management Specialist
-Pacific States Marine Fisheries Commission, 2021 - present
-
-Biological Science Aid
-U.S. Geological Survey, 2019 - 2021
-
-# Education
-
-Graduate Certificate, Geographic Information Science
-
-Oregon State University, 2020
-
-Master of Science, Marine Science
-
-University of Otago, 2014
-
-Bachelor of Science, Geology
-
-Juniata College, 2011
