@@ -1,4 +1,4 @@
-I am a data specialist working in the natural sciences. I focus on data management, documentation, and metadata creation to facilitate data sharing and publication, as well as editing and co-authoring technical reports and papers. I curate, summarize, and QAQC scientific data from a variety of fields, including geology, geography, ecology, and wildlife biology. I also have experience with legacy data rescue to preserve institutional knowledge and transform scientific data from historical or analog formats into useble and accessible digital data.
+I am a data specialist working in the natural sciences. I focus on data management, documentation, and metadata creation to improve data discoverability and facilitate data sharing and publication, as well as editing and co-authoring technical reports and papers. I curate, summarize, and QAQC scientific data from a variety of fields, including geology, geography, ecology, and wildlife biology. I also have experience with legacy data rescue to preserve institutional knowledge and transform scientific data from historical or analog formats into useble and accessible digital data.
 
 ORCID: [0000-0002-2510-9948](https://orcid.org/0000-0002-2510-9948 "ORCID")
 
@@ -16,13 +16,13 @@ Bachelor of Science, Geology
 # Recent Experience
 
 Data Management Specialist
-<br>Pacific States Marine Fisheries Commission, 2021 - present
+<br>Pacific States Marine Fisheries Commission, 2021—present
 
 Biological Science Aid
-<br>U.S. Geological Survey, 2019 - 2021
+<br>U.S. Geological Survey, 2019—2021
 
 Project Coordinator
-<br>Victoria Bird Strike Initiative, 2018 - present
+<br>[Victoria Bird Strike Initiative](https://vicbirdstrikes.wordpress.com/), 2018—present
 
 Research Assistant
 <br>University of Victoria Anthropology Department, 2016
