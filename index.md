@@ -51,3 +51,13 @@ Barnes, P.M., Pickrill, R.A., Bostock, H.C., <strong>Dlabola, E.K.,</strong> Gor
 <strong>Dlabola. E.K.,</strong> Wilson, G.S., Gorman, A.R., Riesselman, C.R., and Moy, C.M. 2015. A post-glacial sea-level curve from Fiordland, New Zealand. Global and Planetary Change, 131, 101-114. [https://doi.org/10.1016/j.gloplacha.2015.05.010](https://doi.org/10.1016/j.gloplacha.2015.05.010)
 
 <strong>Dlabola, E.K.</strong> 2014. A post-glacial sea-level curve for Fiordland, New Zealand (Master’s thesis). University of Otago. [https://hdl.handle.net/10523/5024](https://hdl.handle.net/10523/5024)
+
+# Presentations
+
+<strong>Dlabola, E.K.</strong>, Scully, R.A. and J.M. Bayer. Nov 2022. Data Exchange Standard for Integrating Stream Habitat Data from Multiple Monitoring Programs. Presentation at the Emerging Technologies Information Sessions, Hood River, OR, USA.
+
+<strong>Dlabola, E.K.</strong>, Wilson, G.S. and A.R. Gorman. Oct 2014. Tracking post-glacial sea level rise in Fiordland, New Zealand using seismic surveys and sediment cores. Poster presented at Geological Society of America annual meeting, Vancouver, BC, Canada. [access poster pdf](https://github.com/edlabo/edlabo.github.io/blob/master/assets/images/DlabolaGSA_poster.pdf)
+
+<strong>Dlabola, E.K.</strong>, Wilson, G.S. and A.R. Gorman. Apr 2014. Paleo-environments and post-glacial sea level rise in Fiordland. Presentation given for the University of Otago Marine Science department seminar, Dunedin, New Zealand. [access slides pdf](https://github.com/edlabo/edlabo.github.io/blob/master/assets/images/DlabolaMSciseminar_slides.pdf)
+
+<strong>Dlabola, E.K.</strong>, Wilson, G.S., and A.R. Gorman, A.R. Oct 2012. Sea level rise from the late-glacial through Holocene in Fiordland, New Zealand. Poster presented at the PALSEA2 meeting, Rome, Italy. [access slides pdf](https://github.com/edlabo/edlabo.github.io/blob/master/assets/images/DlabolaPALSEA_poster.pdf)
