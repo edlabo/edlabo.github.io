@@ -60,4 +60,4 @@ Barnes, P.M., Pickrill, R.A., Bostock, H.C., <strong>Dlabola, E.K.,</strong> Gor
 
 <strong>Dlabola, E.K.</strong>, Wilson, G.S. and A.R. Gorman. Apr 2014. Paleo-environments and post-glacial sea level rise in Fiordland. Presentation given for the University of Otago Marine Science department seminar, Dunedin, New Zealand. [access slides pdf](https://github.com/edlabo/edlabo.github.io/blob/master/assets/images/DlabolaMSciseminar_slides.pdf)
 
-<strong>Dlabola, E.K.</strong>, Wilson, G.S., and A.R. Gorman, A.R. Oct 2012. Sea level rise from the late-glacial through Holocene in Fiordland, New Zealand. Poster presented at the PALSEA2 meeting, Rome, Italy. [access slides pdf](https://github.com/edlabo/edlabo.github.io/blob/master/assets/images/DlabolaPALSEA_poster.pdf)
+<strong>Dlabola, E.K.</strong>, Wilson, G.S., and A.R. Gorman, A.R. Oct 2012. Sea level rise from the late-glacial through Holocene in Fiordland, New Zealand. Poster presented at the PALSEA2 meeting, Rome, Italy. [access poster pdf](https://github.com/edlabo/edlabo.github.io/blob/master/assets/images/DlabolaPALSEA_poster.pdf)
