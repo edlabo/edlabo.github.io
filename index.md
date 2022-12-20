@@ -1,4 +1,4 @@
-I am a data specialist working in the natural and environmental sciences. I focus on data management and documentation to improve data discoverability and facilitate data sharing and publication, as well as editing and co-authoring accompanying technical reports and papers. I curate, summarize, and QAQC scientific data from a variety of fields, including earth science/geology, geography, ecology, and wildlife biology. I also have experience with legacy data rescue to preserve institutional knowledge and transform scientific data from historical, paper, and/or analog formats into useable and accessible open non-proprietary digital data formats.
+I am a data specialist working in the natural and environmental sciences. I focus on data management and documentation to improve data discoverability and facilitate data sharing and publication. As part of data publication, I write human and machine-readable metadata records following discipline-specific or widely-recognized standards and co-author technical reports and papers accompanying scientific data. I curate, summarize, and QAQC scientific data from a variety of fields, including earth science/geology, geography, ecology, and wildlife biology. I also have experience with legacy data rescue to preserve institutional knowledge and transform scientific data from historical, paper, and/or analog formats into useable and accessible open non-proprietary digital data formats.
 
 ORCID: [0000-0002-2510-9948](https://orcid.org/0000-0002-2510-9948 "ORCID")
 
@@ -33,17 +33,17 @@ Visiting Research Scientist
 # Data Releases
 **Dlabola, E.K.** 2022. Bird-window collisions at the University of Victoria, Victoria, BC from 1990–2021, ArcGIS Online data, [https://www.arcgis.com/home/item.html?id=38ffe5fa61f54c1b8e536072f06fb3cc](https://www.arcgis.com/home/item.html?id=38ffe5fa61f54c1b8e536072f06fb3cc)
 
-Hagar, J.C. and **Dlabola, E.K.** 2021. Mesocarnivore Survey of Crater Lake National Park, U.S. Geological Survey data release, [https://doi.org/10.5066/P9PH6JAL](https://doi.org/10.5066/P9PH6JAL)
+Hagar, J.C. and **Dlabola, E.K.** 2021. Mesocarnivore Survey of Crater Lake National Park, 2016, U.S. Geological Survey data release, [https://doi.org/10.5066/P9PH6JAL](https://doi.org/10.5066/P9PH6JAL)
 
-Hagar, J.C. and **Dlabola, E.K.** 2021. Mesocarnivore Survey of Lassen Volcanic National Park, U.S. Geological Survey data release, [https://doi.org/10.5066/P9YMXGWH](https://doi.org/10.5066/P9YMXGWH)
+Hagar, J.C. and **Dlabola, E.K.** 2021. Mesocarnivore Survey of Lassen Volcanic National Park, 2017-2018, U.S. Geological Survey data release, [https://doi.org/10.5066/P9YMXGWH](https://doi.org/10.5066/P9YMXGWH)
 
-Hagar, J.C. and **Dlabola, E.K.** 2021. Mesocarnivore Survey of Lava Beds National Monument, U.S. Geological Survey data release, [https://doi.org/10.5066/P91R4OIG](https://doi.org/10.5066/P91R4OIG)
+Hagar, J.C. and **Dlabola, E.K.** 2021. Mesocarnivore Survey of Lava Beds National Monument, 2018, U.S. Geological Survey data release, [https://doi.org/10.5066/P91R4OIG](https://doi.org/10.5066/P91R4OIG)
 
-Hagar, J.C. and **Dlabola, E.K.** 2021. Mesocarnivore Survey of Whiskeytown National Recreation Area, U.S. Geological Survey data release, [https://doi.org/10.5066/P9AZ3E90](https://doi.org/10.5066/P9AZ3E90)
+Hagar, J.C. and **Dlabola, E.K.** 2021. Mesocarnivore Survey of Whiskeytown National Recreation Area, 2018-2019, U.S. Geological Survey data release, [https://doi.org/10.5066/P9AZ3E90](https://doi.org/10.5066/P9AZ3E90)
 
-Huso, M.M., Conkling, T.J., Davis, M., and Smith, H., 2021, San Gorgonio Pass Wind Resource Area Repower Data (2018-2019): U.S. Geological Survey data release, https://doi.org/10.5066/P9VV1Z3E. (compiled metadata for data release)
+Huso, M.M., Conkling, T.J., Davis, M., and Smith, H., 2021, San Gorgonio Pass Wind Resource Area Repower Data (2018-2019): U.S. Geological Survey data release, [https://doi.org/10.5066/P9VV1Z3E](https://doi.org/10.5066/P9VV1Z3E). (compiled metadata for data release)
 
-Henny, C.J., and Kaiser, J.L., 2021, Effects of rotenone on nesting Ospreys (Pandion haliaetus) at Hyatt and Howard Prairie Reservoirs, OR, 1988-1992: U.S. Geological Survey data release, https://doi.org/10.5066/P9125II7. (compiled metadata and data files for legacy data release)
+Henny, C.J., and Kaiser, J.L., 2021, Effects of rotenone on nesting Ospreys (Pandion haliaetus) at Hyatt and Howard Prairie Reservoirs, OR, 1988-1992: U.S. Geological Survey data release, [https://doi.org/10.5066/P9125II7](https://doi.org/10.5066/P9125II7). (compiled metadata and data files for legacy data release)
 
 # Publications
 
