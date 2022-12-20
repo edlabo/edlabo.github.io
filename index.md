@@ -1,4 +1,4 @@
-I am a data specialist working in the natural and environmental sciences. I focus on data management, documentation, and metadata creation to improve data discoverability and facilitate data sharing and publication, as well as editing and co-authoring technical reports and papers. I curate, summarize, and QAQC scientific data from a variety of fields, including earth science/geology, geography, ecology, and wildlife biology. I also have experience with legacy data rescue to preserve institutional knowledge and transform scientific data from historical or analog formats into useble and accessible digital data.
+I am a data specialist working in the natural and environmental sciences. I focus on data management and documentation to improve data discoverability and facilitate data sharing and publication, as well as editing and co-authoring accompanying technical reports and papers. I curate, summarize, and QAQC scientific data from a variety of fields, including earth science/geology, geography, ecology, and wildlife biology. I also have experience with legacy data rescue to preserve institutional knowledge and transform scientific data from historical, paper, and/or analog formats into useable and accessible open non-proprietary digital data formats.
 
 ORCID: [0000-0002-2510-9948](https://orcid.org/0000-0002-2510-9948 "ORCID")
 
@@ -41,7 +41,13 @@ Hagar, J.C. and **Dlabola, E.K.** 2021. Mesocarnivore Survey of Lava Beds Nation
 
 Hagar, J.C. and **Dlabola, E.K.** 2021. Mesocarnivore Survey of Whiskeytown National Recreation Area, U.S. Geological Survey data release, [https://doi.org/10.5066/P9AZ3E90](https://doi.org/10.5066/P9AZ3E90)
 
+Huso, M.M., Conkling, T.J., Davis, M., and Smith, H., 2021, San Gorgonio Pass Wind Resource Area Repower Data (2018-2019): U.S. Geological Survey data release, https://doi.org/10.5066/P9VV1Z3E. (compiled metadata for data release)
+
+Henny, C.J., and Kaiser, J.L., 2021, Effects of rotenone on nesting Ospreys (Pandion haliaetus) at Hyatt and Howard Prairie Reservoirs, OR, 1988-1992: U.S. Geological Survey data release, https://doi.org/10.5066/P9125II7. (compiled metadata and data files for legacy data release)
+
 # Publications
+
+Elliott-Smith, E., **Dlabola, E.**, Anderson, A., Bidwell, M., Hofer, C., and Sandoval, G. , Data from the 2016 International Piping Plover Breeding Census: U.S. Geological Survey Data Series, _in press_
 
 Hiemstra, M.A., **Dlabola, E.K.** and O’Brien, E.L. 2020. Factors influencing bird-window collisions in Victoria, British Columbia. Northwestern Naturalist, 10(1). [https://doi.org/10.1898/1051-1733-101.1.27](https://doi.org/10.1898/1051-1733-101.1.27)
 
