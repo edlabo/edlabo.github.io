@@ -32,7 +32,7 @@ Visiting Research Scientist
 
 # Data Releases
 
-**Dlabola, E.K.** 2023. Seismic profiles, diatom and microfossil assemblages, and radiocarbon ages for constructing a post-glacial sea level curve from Fiordland, New Zealand ver 1. Environmental Data Initiative. https://doi.org/10.6073/pasta/b745c6f6ec5aacf2306461f38d28e1b6 (Accessed 2023-01-09).
+**Dlabola, E.K.** 2023. Seismic profiles, diatom and microfossil assemblages, and radiocarbon ages for constructing a post-glacial sea level curve from Fiordland, New Zealand ver 1. Environmental Data Initiative. [https://doi.org/10.6073/pasta/b745c6f6ec5aacf2306461f38d28e1b6](https://doi.org/10.6073/pasta/b745c6f6ec5aacf2306461f38d28e1b6)
 
 **Dlabola, E.K.** 2022. Bird-window collisions at the University of Victoria, Victoria, BC from 1990–2021, ArcGIS Online data, [https://www.arcgis.com/home/item.html?id=38ffe5fa61f54c1b8e536072f06fb3cc](https://www.arcgis.com/home/item.html?id=38ffe5fa61f54c1b8e536072f06fb3cc)
 
