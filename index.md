@@ -14,12 +14,14 @@ Bachelor of Science, Geology
 <br>Juniata College, 2011
 
 # Recent Experience
+Interdisciplinary Data Scientist
+<br>U.S. Geological Survey, 2022–present
 
 Data Management Specialist
-<br>Pacific States Marine Fisheries Commission, 2021—present
+<br>Pacific States Marine Fisheries Commission, 2021–2022
 
 Biological Science Aid
-<br>U.S. Geological Survey, 2019—2021
+<br>U.S. Geological Survey, 2019–2021
 
 Project Coordinator
 <br>[Victoria Bird Strike Initiative](https://vicbirdstrikes.wordpress.com/), 2018—present
