@@ -15,7 +15,7 @@ Bachelor of Science, Geology
 
 # Recent Experience
 Interdisciplinary Data Scientist
-<br>U.S. Geological Survey, 2022–present
+<br>U.S. Geological Survey, 2023–present
 
 Data Management Specialist
 <br>Pacific States Marine Fisheries Commission, 2021–2022
