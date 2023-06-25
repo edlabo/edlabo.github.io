@@ -18,7 +18,7 @@ Interdisciplinary Data Scientist
 <br>U.S. Geological Survey, 2023–present
 
 Data Management Specialist
-<br>Pacific States Marine Fisheries Commission, 2021–2022
+<br>Pacific States Marine Fisheries Commission, 2021–2023
 
 Biological Science Aid
 <br>U.S. Geological Survey, 2019–2021
