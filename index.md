@@ -1,4 +1,21 @@
-I am a data specialist working in the natural and environmental sciences. I focus on data management and documentation to improve data discoverability and facilitate data sharing and publication. As part of data publication, I write human and machine-readable metadata following discipline-specific or widely-recognized standards and co-author technical reports and papers. I curate, summarize, and QAQC scientific data from a variety of fields, including earth science/geology, geography, ecology, and wildlife biology. I also have experience with legacy data rescue and archiving to preserve institutional knowledge and transform scientific data from historical, paper, and/or analog formats into useable and accessible digital data formats.
+I work in a variety of scientific disciplines (geology, marine science, ecology, wildlife biology) and support research through:
+
+- data management and documentation
+- records management and archiving
+- data curation, transformation, and QA/QC
+- sharing and publishing data
+- writing and editing publications
+- legacy data rescue
+- geographic information science
+
+I have experience with:
+
+- ArcGIS Pro, SQLite Studio, Microsoft 365, Adobe Illustrator, Adobe Bridge, Python, SQL, XML, Markdown, GitHub, GitLab, Google Earth Engine
+- data and metadata standards including FGDC Content Standard for Digital Geospatial Metadata, Ecological Metadata Language, EXIF, IPTC, Darwin Core, Dublin Core
+
+Common data types I work with:
+
+- tabular data, databases, photographs, vector geospatial data, raster geospatial data, satellite imagery
 
 ORCID: [0000-0002-2510-9948](https://orcid.org/0000-0002-2510-9948 "ORCID")
 
@@ -36,6 +53,10 @@ Visiting Research Scientist
 
 **Dlabola, E.K.** 2023. Seismic profiles, diatom and microfossil assemblages, and radiocarbon ages for constructing a post-glacial sea level curve from Fiordland, New Zealand ver 1. Environmental Data Initiative. [https://doi.org/10.6073/pasta/b745c6f6ec5aacf2306461f38d28e1b6](https://doi.org/10.6073/pasta/b745c6f6ec5aacf2306461f38d28e1b6)
 
+Scully, R.A., **Dlabola, E.K.,** Heaston, E.D., Bayer, J.M., Courtwright, J.L., Snyder, M.N., Hockman-Wert, D.P., and Saunders, W.C., 2023, Wadeable stream habitat data integrated from multiple monitoring programs for the US from 2000-2022: U.S. Geological Survey data release, [https://doi.org/10.5066/P9J3P7SN](https://doi.org/10.5066/P9J3P7SN)
+
+Scully, R.A., Heaston, E.D., and **Dlabola, E.K.**, 2023, Stream Habitat Metrics Integration Data Exchange Standard (SHMI-DES): U.S. Geological Survey Software Release. [https://doi.org/10.5066/P9KON2PK](https://doi.org/10.5066/P9KON2PK)
+
 **Dlabola, E.K.** 2022. Bird-window collisions at the University of Victoria, Victoria, BC from 1990–2021, ArcGIS Online data, [https://www.arcgis.com/home/item.html?id=38ffe5fa61f54c1b8e536072f06fb3cc](https://www.arcgis.com/home/item.html?id=38ffe5fa61f54c1b8e536072f06fb3cc)
 
 Hagar, J.C. and **Dlabola, E.K.** 2021. Mesocarnivore Survey of Crater Lake National Park, 2016, U.S. Geological Survey data release, [https://doi.org/10.5066/P9PH6JAL](https://doi.org/10.5066/P9PH6JAL)
@@ -53,6 +74,8 @@ Henny, C.J., and Kaiser, J.L., 2021, Effects of rotenone on nesting Ospreys (Pan
 # Publications
 
 Elliott-Smith, E., **Dlabola, E.**, Anderson, A., Bidwell, M., Hofer, C., and Sandoval, G. , Data from the 2016 International Piping Plover Breeding Census: U.S. Geological Survey Data Series, _in press_
+
+Bayer, J.M., Scully, R.A. **Dlabola, E.K.**, Courtwright, J.L. Hirsch, C.L., Hockman-Wert, D., Miller, S.W., Roper, B.B., Saunders, W.C., and Snyder, M.N. 2023. Sharing FAIR monitoring program data improves discoverability and reuse. Environmental Monitoring and Assessment, 195, 1141. [https://doi.org/10.1007/s10661-023-11788-4](https://doi.org/10.1007/s10661-023-11788-4)
 
 Hiemstra, M.A., **Dlabola, E.K.** and O’Brien, E.L. 2020. Factors influencing bird-window collisions in Victoria, British Columbia. Northwestern Naturalist, 10(1). [https://doi.org/10.1898/1051-1733-101.1.27](https://doi.org/10.1898/1051-1733-101.1.27)
 
