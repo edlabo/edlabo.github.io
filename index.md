@@ -40,8 +40,8 @@ Data Management Specialist
 Biological Science Aid
 <br>U.S. Geological Survey, 2019–2021
 
-Project Coordinator
-<br>[Victoria Bird Strike Initiative](https://vicbirdstrikes.wordpress.com/), 2018—present
+Project Coordinator (Volunteer)
+<br>[Victoria Bird Strike Initiative](https://vicbirdstrikes.wordpress.com/), 2018—2023
 
 Research Assistant
 <br>University of Victoria Anthropology Department, 2016
