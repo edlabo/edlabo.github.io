@@ -41,7 +41,7 @@ Biological Science Aid
 <br>U.S. Geological Survey, 2019–2021
 
 Project Coordinator (Volunteer)
-<br>[Victoria Bird Strike Initiative](https://vicbirdstrikes.wordpress.com/), 2018—2023
+<br>Victoria Bird Strike Initiative, 2018—2022
 
 Research Assistant
 <br>University of Victoria Anthropology Department, 2016
@@ -67,13 +67,9 @@ Hagar, J.C. and **Dlabola, E.K.** 2021. Mesocarnivore Survey of Lava Beds Nation
 
 Hagar, J.C. and **Dlabola, E.K.** 2021. Mesocarnivore Survey of Whiskeytown National Recreation Area, 2018-2019, U.S. Geological Survey data release, [https://doi.org/10.5066/P9AZ3E90](https://doi.org/10.5066/P9AZ3E90)
 
-Huso, M.M., Conkling, T.J., Davis, M., and Smith, H., 2021, San Gorgonio Pass Wind Resource Area Repower Data (2018-2019): U.S. Geological Survey data release, [https://doi.org/10.5066/P9VV1Z3E](https://doi.org/10.5066/P9VV1Z3E). (compiled metadata for data release)
-
-Henny, C.J., and Kaiser, J.L., 2021, Effects of rotenone on nesting Ospreys (Pandion haliaetus) at Hyatt and Howard Prairie Reservoirs, OR, 1988-1992: U.S. Geological Survey data release, [https://doi.org/10.5066/P9125II7](https://doi.org/10.5066/P9125II7). (compiled metadata and data files for legacy data release)
-
 # Publications
 
-Elliott-Smith, E., **Dlabola, E.**, Anderson, A., Bidwell, M., Hofer, C., and Sandoval, G. , Data from the 2016 International Piping Plover Breeding Census: U.S. Geological Survey Data Series, _in press_
+Elliott-Smith, E., **Dlabola, E.K.**, Anderson, A., Bidwell, M., Hofer, C., and Sandoval, G., Data from the 2016 International Piping Plover Breeding Census: U.S. Geological Survey Data Series, _in press_
 
 Bayer, J.M., Scully, R.A. **Dlabola, E.K.**, Courtwright, J.L. Hirsch, C.L., Hockman-Wert, D., Miller, S.W., Roper, B.B., Saunders, W.C., and Snyder, M.N. 2023. Sharing FAIR monitoring program data improves discoverability and reuse. Environmental Monitoring and Assessment, 195, 1141. [https://doi.org/10.1007/s10661-023-11788-4](https://doi.org/10.1007/s10661-023-11788-4)
 
@@ -87,7 +83,7 @@ Barnes, P.M., Pickrill, R.A., Bostock, H.C., **Dlabola, E.K.,** Gorman, A.R., an
 
 # Presentations
 
-**Dlabola, E.K.**, Scully, R.A. and J.M. Bayer. Nov 2022. Data Exchange Standard for Integrating Stream Habitat Data from Multiple Monitoring Programs. Presentation at the Emerging Technologies Information Sessions, Hood River, OR, USA.
+**Dlabola, E.K.**, Scully, R.A. and J.M. Bayer. Nov 2022. Data exchange standard for integrating stream habitat data from multiple monitoring Programs. Presentation at the Emerging Technologies Information Sessions, Hood River, OR, USA.
 
 **Dlabola, E.K.**, Wilson, G.S. and A.R. Gorman. Oct 2014. Tracking post-glacial sea level rise in Fiordland, New Zealand using seismic surveys and sediment cores. Poster presented at Geological Society of America annual meeting, Vancouver, BC, Canada. [access poster pdf](https://github.com/edlabo/edlabo.github.io/blob/master/assets/images/DlabolaGSA_poster.pdf)
 
