@@ -1,8 +1,8 @@
-I support scientific research in a variety of fields, including geology, marine science, ecology, and wildlife biology.
+I support scientific research and publishing in a variety of fields, including geology, marine science, ecology, and wildlife biology. I am especially interested in knowledge preservation and legacy data rescue at the intersection of science and history. 
 
 ORCID: [0000-0002-2510-9948](https://orcid.org/0000-0002-2510-9948 "ORCID")
 
-## Areas of Expertise
+## Expertise
 
 - data management and documentation
 - archives and records management
@@ -14,9 +14,10 @@ ORCID: [0000-0002-2510-9948](https://orcid.org/0000-0002-2510-9948 "ORCID")
 
 ## Tools
 
-- software and languages: ArcGIS Pro, Microsoft 365, Adobe Illustrator, Adobe Bridge, Python, SQL, XML, Markdown, GitHub, GitLab, SQLite Studio, mdEditor, Metadata Wizard
-- data and metadata standards: FGDC Content Standard for Digital Geospatial Metadata, Ecological Metadata Language, Darwin Core, Dublin Core
-- data types: tabular data, databases, photographs, vector geospatial data, raster geospatial data, satellite imagery
+- Adobe Illustrator, Adobe Bridge, Esri ArcGIS Hub, Esri ArcGIS Pro, GitHub, GitLab, HTML, JupyterLab, markdown, mdEditor.org, Microsoft 365, Microsoft SharePoint, Python, Spyder, SQL, SQLite Studio, USGS Metadata Wizard, XML
+- Darwin Core, Dublin Core, Ecological Metadata Language, FGDC Content Standard for Digital Geospatial Metadata standards
+- Tabular data, databases, images, vector geospatial data, raster geospatial data, satellite imagery data types
+
 
 # Education
 
