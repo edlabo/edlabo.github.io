@@ -5,11 +5,11 @@ ORCID: [0000-0002-2510-9948](https://orcid.org/0000-0002-2510-9948 "ORCID")
 ## Expertise
 
 - data management and documentation
-- archives and records management
 - sharing and publishing data
+- legacy data rescue
+- information and records management
+- scientific archival accession
 - writing and editing publications
-- information management and organization
-- legacy data rescue and knowledge preservation
 - geographic information science
 
 ## Tools
