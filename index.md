@@ -1,4 +1,4 @@
-I support scientific research and publishing in a variety of fields, including geology, marine science, ecology, and wildlife biology. I am especially interested in knowledge preservation and legacy data rescue at the intersection of science and history.
+I support scientific research, data sharing, and publishing in a variety of fields, including geology, marine science, ecology, and wildlife biology. I am especially interested in knowledge preservation and legacy data rescue at the intersection of science and history.
 
 ORCID: [0000-0002-2510-9948](https://orcid.org/0000-0002-2510-9948 "ORCID")
 
@@ -8,7 +8,7 @@ ORCID: [0000-0002-2510-9948](https://orcid.org/0000-0002-2510-9948 "ORCID")
 - sharing and publishing data
 - legacy data rescue
 - information and records management
-- scientific archival accession
+- scientific archiving
 - writing and editing publications
 - geographic information science
 
@@ -35,7 +35,7 @@ Interdisciplinary Data Scientist
 <br>U.S. Geological Survey, 2023-2024
 
 Data Management Specialist
-<br>Pacific States Marine Fisheries Commission, 2021-2023
+<br>U.S. Geological Survey and Pacific States Marine Fisheries Commission , 2021-2023
 
 Biological Technician
 <br>U.S. Geological Survey, 2019-2021
@@ -47,7 +47,7 @@ Research Assistant
 <br>University of Victoria Anthropology Department, 2016
 
 Visiting Research Scientist
-<br>Geological Survey of Canada, 2015
+<br>Geological Survey of Canada Pacific Geoscience Center, 2015
 
 # Data Releases
 
@@ -83,7 +83,7 @@ Barnes, PM, Pickrill, RA, Bostock, HC, **Dlabola, EK,** Gorman, AR, and GS Wilso
 
 # Presentations
 
-**Dlabola, EK**, Scully, RA, and JM Bayer. Nov 2022. Data exchange standard for integrating stream habitat data from multiple monitoring Programs. Presentation at the Emerging Technologies Information Sessions, Hood River, OR, USA.
+**Dlabola, EK**, Scully, RA, and JM Bayer. Nov 2022. Data exchange standard for integrating stream habitat data from multiple monitoring programs. Presentation at the Emerging Technologies Information Sessions, Hood River, OR, USA.
 
 **Dlabola, EK**, Wilson, GS, and AR Gorman. Oct 2014. Tracking post-glacial sea level rise in Fiordland, New Zealand using seismic surveys and sediment cores. Poster presented at Geological Society of America annual meeting, Vancouver, BC, Canada. [access poster pdf](https://github.com/edlabo/edlabo.github.io/blob/master/assets/images/DlabolaGSA_poster.pdf)
 
