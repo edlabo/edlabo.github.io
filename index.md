@@ -1,4 +1,4 @@
-I support scientific research, data sharing, and publishing in a variety of fields, including geology, marine science, ecology, and wildlife biology. I am especially interested in knowledge preservation and legacy data rescue at the intersection of science and history.
+As a Data Curator, I provide data and information management from documentation and metadata to data preservation, sharing, and publishing. Quality, accuracy, integrity, and accessibility are my primary focus in any data project. I have experience in a variety of fields, including geology, marine science, ecology, and wildlife biology. I am especially interested in knowledge preservation and legacy data rescue at the intersection of science and history.
 
 ORCID: [0000-0002-2510-9948](https://orcid.org/0000-0002-2510-9948 "ORCID")
 
@@ -32,30 +32,30 @@ Bachelor of Science, Geology
 
 # Experience
 Interdisciplinary Data Scientist
-<br>U.S. Geological Survey, 2023-2024
+<br>U.S. Geological Survey [Forest and Rangeland Ecosystem Science Center](https://www.usgs.gov/centers/forest-and-rangeland-ecosystem-science-center), 2023-2024
 
 Data Management Specialist
-<br>U.S. Geological Survey and Pacific States Marine Fisheries Commission , 2021-2023
+<br>U.S. Geological Survey [Forest and Rangeland Ecosystem Science Center](https://www.usgs.gov/centers/forest-and-rangeland-ecosystem-science-center) and [Pacific States Marine Fisheries Commission](https://www.psmfc.org/), 2021-2023
 
 Biological Technician
-<br>U.S. Geological Survey, 2019-2021
+<br>U.S. Geological Survey [Forest and Rangeland Ecosystem Science Center](https://www.usgs.gov/centers/forest-and-rangeland-ecosystem-science-center), 2019-2021
 
 Project Coordinator (Volunteer)
 <br>Victoria Bird Strike Initiative, 2018-2022
 
 Research Assistant
-<br>University of Victoria Anthropology Department, 2016
+<br>[University of Victoria Anthropology Department](https://www.uvic.ca/socialsciences/anthropology/index.php), 2016
 
 Visiting Research Scientist
 <br>Geological Survey of Canada Pacific Geoscience Center, 2015
 
 # Data Releases
 
-**Dlabola, EK**. 2023. Seismic profiles, diatom and microfossil assemblages, and radiocarbon ages for constructing a post-glacial sea level curve from Fiordland, New Zealand ver 1. Environmental Data Initiative. [https://doi.org/10.6073/pasta/b745c6f6ec5aacf2306461f38d28e1b6](https://doi.org/10.6073/pasta/b745c6f6ec5aacf2306461f38d28e1b6)
-
 Scully, RA, **Dlabola, EK,** Heaston, ED, Bayer, JM, Courtwright, JL, Snyder, MN, Hockman-Wert, DP, and WC Saunders. 2023. Wadeable stream habitat data integrated from multiple monitoring programs for the US from 2000-2022: U.S. Geological Survey data release, [https://doi.org/10.5066/P9J3P7SN](https://doi.org/10.5066/P9J3P7SN)
 
 Scully, RA, Heaston, ED, and **EK Dlabola**. 2023. Stream Habitat Metrics Integration Data Exchange Standard (SHMI-DES): U.S. Geological Survey software release. [https://doi.org/10.5066/P9KON2PK](https://doi.org/10.5066/P9KON2PK)
+
+**Dlabola, EK**. 2023. Seismic profiles, diatom and microfossil assemblages, and radiocarbon ages for constructing a post-glacial sea level curve from Fiordland, New Zealand ver 1. Environmental Data Initiative. [https://doi.org/10.6073/pasta/b745c6f6ec5aacf2306461f38d28e1b6](https://doi.org/10.6073/pasta/b745c6f6ec5aacf2306461f38d28e1b6)
 
 **Dlabola, EK**. 2022. Bird-window collisions at the University of Victoria, Victoria, BC from 1990–2021, ArcGIS Online data, [https://www.arcgis.com/home/item.html?id=38ffe5fa61f54c1b8e536072f06fb3cc](https://www.arcgis.com/home/item.html?id=38ffe5fa61f54c1b8e536072f06fb3cc)
 
