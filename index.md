@@ -1,4 +1,4 @@
-As a Data Curator, I provide data and information management from documentation and metadata to data preservation, sharing, publishing, and archiving. Quality, accuracy, integrity, and accessibility are my primary focus in any data project. I have experience in a variety of fields, including geology, marine science, ecology, and wildlife biology. I am also interested in knowledge preservation and legacy data rescue at the intersection of science and history.
+I provide data and information management from documentation and metadata to data preservation, sharing, publishing, and archiving. Quality, accuracy, integrity, and accessibility are my primary focus in any data project. I have experience in a variety of fields, including geology, marine science, ecology, and wildlife biology. I am also interested in knowledge preservation and legacy data rescue at the intersection of science and history.
 
 ORCID: [0000-0002-2510-9948](https://orcid.org/0000-0002-2510-9948 "ORCID")
 
