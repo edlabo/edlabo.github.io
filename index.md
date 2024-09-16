@@ -60,23 +60,23 @@ Visiting Research Scientist
 
 # Data Releases
 
-Scully, RA, **Dlabola, EK,** Heaston, ED, Bayer, JM, Courtwright, JL, Snyder, MN, Hockman-Wert, DP, and WC Saunders. 2023. Wadeable stream habitat data integrated from multiple monitoring programs for the US from 2000-2022: U.S. Geological Survey data release, [https://doi.org/10.5066/P9J3P7SN](https://doi.org/10.5066/P9J3P7SN)
+Scully, RA, **Dlabola, EK,** Heaston, ED, Bayer, JM, Courtwright, JL, Snyder, MN, Hockman-Wert, DP, and WC Saunders. 2023. Wadeable stream habitat data integrated from multiple monitoring programs for the US from 2000-2022: U.S. Geological Survey data release, [doi.org/10.5066/P9J3P7SN](https://doi.org/10.5066/P9J3P7SN)
 
-Scully, RA, Heaston, ED, and **EK Dlabola**. 2023. Stream Habitat Metrics Integration Data Exchange Standard (SHMI-DES): U.S. Geological Survey software release. [https://doi.org/10.5066/P9KON2PK](https://doi.org/10.5066/P9KON2PK)
+Scully, RA, Heaston, ED, and **EK Dlabola**. 2023. Stream Habitat Metrics Integration Data Exchange Standard (SHMI-DES): U.S. Geological Survey software release. [doi.org/10.5066/P9KON2PK](https://doi.org/10.5066/P9KON2PK)
 
-**Dlabola, EK**. 2023. Seismic profiles, diatom and microfossil assemblages, and radiocarbon ages for constructing a post-glacial sea level curve from Fiordland, New Zealand ver 1. Environmental Data Initiative. [https://doi.org/10.6073/pasta/b745c6f6ec5aacf2306461f38d28e1b6](https://doi.org/10.6073/pasta/b745c6f6ec5aacf2306461f38d28e1b6)
+**Dlabola, EK**. 2023. Seismic profiles, diatom and microfossil assemblages, and radiocarbon ages for constructing a post-glacial sea level curve from Fiordland, New Zealand ver 1. Environmental Data Initiative. [doi.org/10.6073/pasta/b745c6f6ec5aacf2306461f38d28e1b6](https://doi.org/10.6073/pasta/b745c6f6ec5aacf2306461f38d28e1b6)
 
-**Dlabola, EK**. 2022. Bird-window collisions at the University of Victoria, Victoria, BC from 1990–2021, ArcGIS Online data, [https://www.arcgis.com/home/item.html?id=38ffe5fa61f54c1b8e536072f06fb3cc](https://www.arcgis.com/home/item.html?id=38ffe5fa61f54c1b8e536072f06fb3cc)
+**Dlabola, EK**. 2022. Bird-window collisions at the University of Victoria, Victoria, BC from 1990–2021, ArcGIS Online data, [arcgis.com/home/item.html?id=38ffe5fa61f54c1b8e536072f06fb3cc](https://www.arcgis.com/home/item.html?id=38ffe5fa61f54c1b8e536072f06fb3cc)
 
-Hagar, JC and **EK Dlabola**. 2022. Mesocarnivore Survey of Oregon Caves National Monument and Preserve, Klamath Network, 2017: U.S. Geological Survey data release, [https://doi.org/10.5066/P9471RMC](https://doi.org/10.5066/P9471RMC).
+Hagar, JC and **EK Dlabola**. 2022. Mesocarnivore Survey of Oregon Caves National Monument and Preserve, Klamath Network, 2017: U.S. Geological Survey data release, [doi.org/10.5066/P9471RMC](https://doi.org/10.5066/P9471RMC).
 
-Hagar, JC and **EK Dlabola**. 2021. Mesocarnivore Survey of Crater Lake National Park, 2016, U.S. Geological Survey data release, [https://doi.org/10.5066/P9PH6JAL](https://doi.org/10.5066/P9PH6JAL)
+Hagar, JC and **EK Dlabola**. 2021. Mesocarnivore Survey of Crater Lake National Park, 2016, U.S. Geological Survey data release, [doi.org/10.5066/P9PH6JAL](https://doi.org/10.5066/P9PH6JAL)
 
-Hagar, JC and **EK Dlabola**. 2021. Mesocarnivore Survey of Lassen Volcanic National Park, 2017-2018, U.S. Geological Survey data release, [https://doi.org/10.5066/P9YMXGWH](https://doi.org/10.5066/P9YMXGWH)
+Hagar, JC and **EK Dlabola**. 2021. Mesocarnivore Survey of Lassen Volcanic National Park, 2017-2018, U.S. Geological Survey data release, [doi.org/10.5066/P9YMXGWH](https://doi.org/10.5066/P9YMXGWH)
 
-Hagar, J.C. and **EK Dlabola**. 2021. Mesocarnivore Survey of Lava Beds National Monument, 2018, U.S. Geological Survey data release, [https://doi.org/10.5066/P91R4OIG](https://doi.org/10.5066/P91R4OIG)
+Hagar, J.C. and **EK Dlabola**. 2021. Mesocarnivore Survey of Lava Beds National Monument, 2018, U.S. Geological Survey data release, [doi.org/10.5066/P91R4OIG](https://doi.org/10.5066/P91R4OIG)
 
-Hagar, JC and **EK Dlabola**. 2021. Mesocarnivore Survey of Whiskeytown National Recreation Area, 2018-2019, U.S. Geological Survey data release, [https://doi.org/10.5066/P9AZ3E90](https://doi.org/10.5066/P9AZ3E90)
+Hagar, JC and **EK Dlabola**. 2021. Mesocarnivore Survey of Whiskeytown National Recreation Area, 2018-2019, U.S. Geological Survey data release, [doi.org/10.5066/P9AZ3E90](https://doi.org/10.5066/P9AZ3E90)
 
 # Publications
 
@@ -84,15 +84,15 @@ Scully, RA, **Dlabola, EK**, Bayer, JM, Heaston, E, Courtwright, JL, Snyder, MN,
 
 Elliott-Smith, E, **Dlabola, EK**, Anderson, A, Bidwell, M, Hofer, C, and G Sandoval. Data from the 2016 International Piping Plover Breeding Census: U.S. Geological Survey Data Series, _in prep_
 
-Bayer, JM, Scully, RA, **Dlabola, EK**, Courtwright, JL, Hirsch, CL, Hockman-Wert, D, Miller, SW, Roper, BB, Saunders, WC, and MN Snyder. 2023. Sharing FAIR monitoring program data improves discoverability and reuse. Environmental Monitoring and Assessment, 195, 1141. [https://doi.org/10.1007/s10661-023-11788-4](https://doi.org/10.1007/s10661-023-11788-4)
+Bayer, JM, Scully, RA, **Dlabola, EK**, Courtwright, JL, Hirsch, CL, Hockman-Wert, D, Miller, SW, Roper, BB, Saunders, WC, and MN Snyder. 2023. Sharing FAIR monitoring program data improves discoverability and reuse. Environmental Monitoring and Assessment, 195, 1141. [doi.org/10.1007/s10661-023-11788-4](https://doi.org/10.1007/s10661-023-11788-4)
 
-Hiemstra, MA, **Dlabola, EK** and EL O’Brien. 2020. Factors influencing bird-window collisions in Victoria, British Columbia. Northwestern Naturalist, 10(1). [https://doi.org/10.1898/1051-1733-101.1.27](https://doi.org/10.1898/1051-1733-101.1.27)
+Hiemstra, MA, **Dlabola, EK** and EL O’Brien. 2020. Factors influencing bird-window collisions in Victoria, British Columbia. Northwestern Naturalist, 10(1). [doi.org/10.1898/1051-1733-101.1.27](https://doi.org/10.1898/1051-1733-101.1.27)
 
-Barnes, PM, Pickrill, RA, Bostock, HC, **Dlabola, EK,** Gorman, AR, and GS Wilson. 2016. Relict pro-glacial deltas in Bradshaw and George Sounds, Fiordland, New Zealand. (903) in: Atlas of Submarine Glacial Landforms: Modern, Quaternary and Ancient. Geological Society, London, Memoirs, 46. [https://doi.org/10.1144/m46.59](https://doi.org/10.1144/m46.59)
+Barnes, PM, Pickrill, RA, Bostock, HC, **Dlabola, EK,** Gorman, AR, and GS Wilson. 2016. Relict pro-glacial deltas in Bradshaw and George Sounds, Fiordland, New Zealand. (903) in: Atlas of Submarine Glacial Landforms: Modern, Quaternary and Ancient. Geological Society, London, Memoirs, 46. [doi.org/10.1144/m46.59](https://doi.org/10.1144/m46.59)
 
-**Dlabola. EK,** Wilson, GS, Gorman, AR, Riesselman, CR, and CM Moy. 2015. A post-glacial sea-level curve from Fiordland, New Zealand. Global and Planetary Change, 131, 101-114. [https://doi.org/10.1016/j.gloplacha.2015.05.010](https://doi.org/10.1016/j.gloplacha.2015.05.010)
+**Dlabola. EK,** Wilson, GS, Gorman, AR, Riesselman, CR, and CM Moy. 2015. A post-glacial sea-level curve from Fiordland, New Zealand. Global and Planetary Change, 131, 101-114. [doi.org/10.1016/j.gloplacha.2015.05.010](https://doi.org/10.1016/j.gloplacha.2015.05.010)
 
-**Dlabola, EK.** 2014. A post-glacial sea-level curve for Fiordland, New Zealand (Master’s thesis). University of Otago. [https://hdl.handle.net/10523/5024](https://hdl.handle.net/10523/5024)
+**Dlabola, EK.** 2014. A post-glacial sea-level curve for Fiordland, New Zealand (Master’s thesis). University of Otago. [hdl.handle.net/10523/5024](https://hdl.handle.net/10523/5024)
 
 # Presentations
 
