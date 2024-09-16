@@ -68,6 +68,8 @@ Scully, RA, Heaston, ED, and **EK Dlabola**. 2023. Stream Habitat Metrics Integr
 
 **Dlabola, EK**. 2022. Bird-window collisions at the University of Victoria, Victoria, BC from 1990–2021, ArcGIS Online data, [https://www.arcgis.com/home/item.html?id=38ffe5fa61f54c1b8e536072f06fb3cc](https://www.arcgis.com/home/item.html?id=38ffe5fa61f54c1b8e536072f06fb3cc)
 
+Hagar, JC and **EK Dlabola**. 2022. Mesocarnivore Survey of Oregon Caves National Monument and Preserve, Klamath Network, 2017: U.S. Geological Survey data release, [https://doi.org/10.5066/P9471RMC](https://doi.org/10.5066/P9471RMC).
+
 Hagar, JC and **EK Dlabola**. 2021. Mesocarnivore Survey of Crater Lake National Park, 2016, U.S. Geological Survey data release, [https://doi.org/10.5066/P9PH6JAL](https://doi.org/10.5066/P9PH6JAL)
 
 Hagar, JC and **EK Dlabola**. 2021. Mesocarnivore Survey of Lassen Volcanic National Park, 2017-2018, U.S. Geological Survey data release, [https://doi.org/10.5066/P9YMXGWH](https://doi.org/10.5066/P9YMXGWH)
@@ -78,7 +80,9 @@ Hagar, JC and **EK Dlabola**. 2021. Mesocarnivore Survey of Whiskeytown National
 
 # Publications
 
-Elliott-Smith, E, **Dlabola, EK**, Anderson, A, Bidwell, M, Hofer, C, and G Sandoval. Data from the 2016 International Piping Plover Breeding Census: U.S. Geological Survey Data Series, _in press_
+Scully, RA, **Dlabola, EK**, Bayer, JM, Heaston, E, Courtwright, JL, Snyder, MN, Hockman-Wert, D, Saunders, WC, Blocksom, K, Hirsch, C, Miller, S, and B Roper. Data Exchange Standard for Wadeable Stream Habitat Monitoring Data: U.S. Geological Survey Techniques and Methods Report Series, _in prep_
+
+Elliott-Smith, E, **Dlabola, EK**, Anderson, A, Bidwell, M, Hofer, C, and G Sandoval. Data from the 2016 International Piping Plover Breeding Census: U.S. Geological Survey Data Series, _in prep_
 
 Bayer, JM, Scully, RA, **Dlabola, EK**, Courtwright, JL, Hirsch, CL, Hockman-Wert, D, Miller, SW, Roper, BB, Saunders, WC, and MN Snyder. 2023. Sharing FAIR monitoring program data improves discoverability and reuse. Environmental Monitoring and Assessment, 195, 1141. [https://doi.org/10.1007/s10661-023-11788-4](https://doi.org/10.1007/s10661-023-11788-4)
 
