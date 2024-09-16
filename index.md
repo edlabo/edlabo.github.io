@@ -15,7 +15,7 @@ ORCID: [0000-0002-2510-9948](https://orcid.org/0000-0002-2510-9948 "ORCID")
 ## Tools
 
 - Adobe Illustrator, Adobe Bridge, Esri ArcGIS Hub, Esri ArcGIS Pro, GitHub, GitLab, HTML, JupyterLab, markdown, mdEditor.org, Microsoft 365, Microsoft SharePoint, Python, Spyder, SQL, SQLite Studio, USGS Metadata Wizard, XML
-- Darwin Core, Dublin Core, Ecological Metadata Language, FGDC Content Standard for Digital Geospatial Metadata standards
+- Darwin Core, Dublin Core, Ecological Metadata Language, FGDC Content Standard for Digital Geospatial Metadta, ISO 19115 metadata standards
 - Tabular data, databases, images/photos, vector geospatial data, raster geospatial data, satellite imagery data types
 
 
