@@ -90,7 +90,7 @@ Barnes, PM, Pickrill, RA, Bostock, HC, **Dlabola, EK,** Gorman, AR, and GS Wilso
 
 **Dlabola. EK,** Wilson, GS, Gorman, AR, Riesselman, CR, and CM Moy. 2015. A post-glacial sea-level curve from Fiordland, New Zealand. Global and Planetary Change, 131, 101-114. [doi.org/10.1016/j.gloplacha.2015.05.010](https://doi.org/10.1016/j.gloplacha.2015.05.010)
 
-**Dlabola, EK.** 2014. A post-glacial sea-level curve for Fiordland, New Zealand (Master’s thesis). University of Otago. [hdl.handle.net/10523/5024](https://hdl.handle.net/10523/5024)
+**Dlabola, EK.** 2014. A post-glacial relative sea-level curve for Fiordland, New Zealand (Master’s thesis). University of Otago. [hdl.handle.net/10523/5024](https://hdl.handle.net/10523/5024)
 
 # Presentations
 
