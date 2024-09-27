@@ -1,4 +1,4 @@
-I provide data and information management from documentation and metadata to data preservation, sharing, publishing, and archiving. Quality, accuracy, integrity, and accessibility are my primary focus in any data project. I have experience in a variety of fields, including geology, marine science, ecology, and wildlife biology. I am also interested in knowledge preservation and legacy data rescue at the intersection of science and history.
+I provide data and information management from documentation and metadata to data preservation, sharing, publishing, and archiving. I have experience in a variety of fields, including geology, marine science, ecology, and wildlife biology. Knowledge preservation and legacy data rescue at the intersection of science and history are also special interests of mine.
 
 ORCID: [0000-0002-2510-9948](https://orcid.org/0000-0002-2510-9948 "ORCID")
 
@@ -17,21 +17,6 @@ ORCID: [0000-0002-2510-9948](https://orcid.org/0000-0002-2510-9948 "ORCID")
 - Adobe Illustrator, Adobe Bridge, Esri ArcGIS Hub, Esri ArcGIS Pro, GitHub, GitLab, HTML, JupyterLab, markdown, mdEditor.org, Microsoft 365, Microsoft SharePoint, Python, Spyder, SQL, SQLite Studio, USGS Metadata Wizard, XML
 - Darwin Core, Dublin Core, Ecological Metadata Language, FGDC Content Standard for Digital Geospatial Metadta, ISO 19115 metadata standards
 - Tabular data, databases, images/photos, vector geospatial data, raster geospatial data, satellite imagery data types
-
-
-# Education
-
-Graduate Certificate, Geographic Information Science
-<br>Oregon State University
-<br>2019 - 2020
-
-Master of Science, Marine Science
-<br>University of Otago
-<br>2012 - 2014
-
-Bachelor of Science, Geology
-<br>Juniata College
-<br>2007 - 2011
 
 # Experience
 Interdisciplinary Data Scientist
@@ -57,6 +42,19 @@ Research Assistant
 Visiting Research Scientist
 <br>Geological Survey of Canada Pacific Geoscience Center
 <br>2015
+
+# Education
+Graduate Certificate, Geographic Information Science (GIS)
+<br>Oregon State University, Corvallis, OR, USA
+<br>2019 – 2020
+
+Master of Science (MSc), Marine Science
+<br>University of Otago, Dunedin, New Zealand
+<br>2012 – 2014
+
+Bachelor of Science (BSc), Geology
+<br>Juniata College, Huntingdon, PA, USA
+<br>2007 – 2011
 
 # Data Releases
 
