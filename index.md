@@ -9,7 +9,7 @@ ORCID: [0000-0002-2510-9948](https://orcid.org/0000-0002-2510-9948 "ORCID")
 - legacy data rescue
 - information and records management
 - scientific archiving
-- writing reports and papers
+- publishing reports and papers
 - geographic information science
 
 ## Tools
@@ -78,9 +78,9 @@ Hagar, JC and **EK Dlabola**. 2021. Mesocarnivore Survey of Whiskeytown National
 
 # Publications
 
-Scully, RA, **Dlabola, EK**, Bayer, JM, Heaston, E, Courtwright, JL, Snyder, MN, Hockman-Wert, D, Saunders, WC, Blocksom, K, Hirsch, C, Miller, S, and B Roper. Data Exchange Standard for Wadeable Stream Habitat Monitoring Data: U.S. Geological Survey Techniques and Methods Report Series, _in prep_
-
 Elliott-Smith, E, **Dlabola, EK**, Anderson, A, Bidwell, M, Hofer, C, and G Sandoval. Data from the 2016 International Piping Plover Breeding Census: U.S. Geological Survey Data Series, _in prep_
+
+Scully, RA, **Dlabola, EK**, Bayer, JM, Heaston, E, Courtwright, JL, Snyder, MN, Hockman-Wert, D, Saunders, WC, Blocksom, K, Hirsch, C, and S Miller. A data exchange standard for wadeable stream habitat monitoring data: U.S. Geological Survey Techniques and Methods, 16-B2, [https://doi.org/10.3133/tm16B2](https://doi.org/10.3133/tm16B2)
 
 Bayer, JM, Scully, RA, **Dlabola, EK**, Courtwright, JL, Hirsch, CL, Hockman-Wert, D, Miller, SW, Roper, BB, Saunders, WC, and MN Snyder. 2023. Sharing FAIR monitoring program data improves discoverability and reuse. Environmental Monitoring and Assessment, 195, 1141. [doi.org/10.1007/s10661-023-11788-4](https://doi.org/10.1007/s10661-023-11788-4)
 
