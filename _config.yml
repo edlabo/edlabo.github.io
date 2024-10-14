@@ -2,7 +2,7 @@ title: Erin Dlabola
 description: Data Curator
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-minima
+
 remote_theme: jekyll/minima
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
