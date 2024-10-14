@@ -2,8 +2,8 @@ title: Erin Dlabola
 description: Data Curator
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-slate
-remote_theme: pages-themes/slate@v0.2.0
+theme: jekyll-theme-minima
+remote_theme: jekyll/minima
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 url: "https://edlabo.github.io"
