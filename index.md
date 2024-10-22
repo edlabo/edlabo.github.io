@@ -58,6 +58,8 @@ Bachelor of Science (BSc), Geology
 
 # Data Releases
 
+Kelly, J.F., Welty, J.L., and **E.K. Dlabola**. 2024. Media Metadata Editor: U.S. Geological Survey software release, [doi.org/10.5066/P1GT5T6R](https://doi.org/10.5066/P1GT5T6R)
+
 Scully, RA, **Dlabola, EK,** Heaston, ED, Bayer, JM, Courtwright, JL, Snyder, MN, Hockman-Wert, DP, and WC Saunders. 2023. Wadeable stream habitat data integrated from multiple monitoring programs for the US from 2000-2022: U.S. Geological Survey data release, [doi.org/10.5066/P9J3P7SN](https://doi.org/10.5066/P9J3P7SN)
 
 Scully, RA, Heaston, ED, and **EK Dlabola**. 2023. Stream Habitat Metrics Integration Data Exchange Standard (SHMI-DES): U.S. Geological Survey software release. [doi.org/10.5066/P9KON2PK](https://doi.org/10.5066/P9KON2PK)
